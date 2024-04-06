@@ -1,0 +1,192 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "5ed73e45-e968-4741-bdc6-4c73388a721e",
+   "metadata": {},
+   "source": [
+    "Saravanan_m jupyter science notebook"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f098de73-f125-4430-98aa-a1e8d7edb5cc",
+   "metadata": {},
+   "source": [
+    "Jupyter notebook for coursera"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "02bd6109-ef2d-4d24-adb6-6d7d79ec3e59",
+   "metadata": {},
+   "source": [
+    "```\n",
+    "**Data Science Languages**\n",
+    "\n",
+    "* Python\n",
+    "* R\n",
+    "* SQL\n",
+    "* Julia\n",
+    "* Scala\n",
+    "```\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9710ca04-a506-4a45-8b1d-124bea232cf4",
+   "metadata": {},
+   "source": [
+    "```\n",
+    "**Data Science Libraries**\n",
+    "\n",
+    "* **Python:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn\n",
+    "* **R:** tidyverse, ggplot2, caret, randomForest\n",
+    "* **SQL:** MySQL, PostgreSQL, Oracle\n",
+    "* **Julia:** DataFrames, Plots, Statistics\n",
+    "* **Scala:** Apache Spark\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "159ae8d9-cc2a-4914-b743-5e5c339ae321",
+   "metadata": {},
+   "source": [
+    "```\n",
+    "**Data Science Tools**\n",
+    "\n",
+    "| Tool | Description |\n",
+    "|---|---|\n",
+    "| Jupyter Notebook | A web-based interactive development environment for Python |\n",
+    "| RStudio | A integrated development environment for R |\n",
+    "| Apache Spark | A distributed computing framework for big data processing |\n",
+    "| Tableau | A data visualization tool |\n",
+    "| Power BI | A data visualization and business intelligence tool |\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2d42cc55-ae71-4d47-8a72-a6ac909bc1cb",
+   "metadata": {},
+   "source": [
+    "```\n",
+    "**Arithmetic Expression Examples**\n",
+    "\n",
+    "The following are some examples of arithmetic expressions:\n",
+    "\n",
+    "* Adding two numbers: `5 + 7`\n",
+    "* Subtracting two numbers: `10 - 3`\n",
+    "* Multiplying two numbers: `2 * 4`\n",
+    "* Dividing two numbers: `9 / 3`\n",
+    "* Raising a number to a power: `2 ** 3`\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "46c86b0c-1ebd-4cf1-972c-5758175eb8b5",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'\\na = 5\\nb = 7\\nc = a * b + 5\\nprint(c)\\n'"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "'''\n",
+    "a = 5\n",
+    "b = 7\n",
+    "c = a * b + 5\n",
+    "print(c)\n",
+    "'''"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "db417628-58c6-4605-b161-106fc4b7841e",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'\\nminutes = 60\\nhours = minutes / 60\\nprint(hours)\\n'"
+      ]
+     },
+     "execution_count": 20,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "'''\n",
+    "minutes = 60\n",
+    "hours = minutes / 60\n",
+    "print(hours)\n",
+    "'''"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2d9cccd0-1835-4a8e-b408-9673e93b80e9",
+   "metadata": {},
+   "source": [
+    "```\n",
+    "**Objectives**\n",
+    "\n",
+    "* To learn the basics of Jupyter Notebook\n",
+    "* To understand arithmetic expressions in Python\n",
+    "* To be able to perform basic data science tasks\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a6b66a7d-5a88-44a3-821f-b68cc849d107",
+   "metadata": {},
+   "source": [
+    "```\n",
+    "**Author:** Saravanan manavalan\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8dc38cc8-e95e-48bb-8ff7-0cf661168955",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-panel-2023.05-py310",
+   "language": "python",
+   "name": "conda-env-anaconda-panel-2023.05-py310-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
